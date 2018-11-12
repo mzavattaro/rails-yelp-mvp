@@ -1,5 +1,11 @@
 {
   "name": "rails-yelp-mvp",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "alert": "^1.0.0",
+    "sweet": "^0.1.1",
+    "sweetalert": "^2.1.2",
+    "type.js": "^0.0.1",
+    "typed.js": "^2.0.9"
+  }
 }
